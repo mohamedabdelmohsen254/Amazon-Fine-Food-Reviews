@@ -14,5 +14,9 @@ This dataset consists of reviews of fine foods from amazon. The data span a peri
 - 74,258 products
 - 260 users with > 50 reviews
 
-The streamlit python script output will be:
+## The streamlit python script output will be:
+**you will just type your review and the output will be either it's a positive review or a negative one**
+
+<img width="656" alt="Screenshot 2021-08-24 073822" src="https://user-images.githubusercontent.com/77416420/130561926-18b367c3-36c6-44a6-89ef-595a02983210.png">
+
 
