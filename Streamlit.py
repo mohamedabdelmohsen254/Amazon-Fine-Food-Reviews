@@ -7,10 +7,11 @@ import string # Removing special characters {#, @, ...}
 import re # Regex Package
 
 # Corpora is a group presenting multiple collections of text documents. A single collection is called corpus.
-from nltk.corpus import stopwords # Stopwords
+# Stopwords
+from nltk.corpus import stopwords
 
-from nltk.stem import SnowballStemmer, WordNetLemmatizer # Stemmer & Lemmatizer
-#from gensim.utils import simple_preprocess  # Text ==> List of Tokens
+# Stemmer & Lemmatizer
+from nltk.stem import SnowballStemmer, WordNetLemmatizer
 
 # Text Embedding
 from sklearn.feature_extraction.text import TfidfVectorizer
